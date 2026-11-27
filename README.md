@@ -10,3 +10,4 @@ Piezas del taller **Excel corporativo – Prácticas y pasantías** (UiFCE, Univ
 Pendientes: enlace de inscripción (`[LINK]`), confirmar día de la semana de la fecha y la hora (p. m.).
 - `piezas/propuesta-3-infografia.html`: línea gráfica inspirada en P&G LATAM.
 - `assets/logo-uifce-*.webp`: logos UiFCE Coordinación (blanco y azul).
+- `assets/logo-pg.svg`, `assets/banner-institucional.png`: logo de P&G y banner institucional.
